@@ -1,0 +1,2 @@
+1. wap a program using function to calculate factorial of a number
+2. wap to find the sum of 1 + 2/ 2! + 3 / 3! + n/ n!

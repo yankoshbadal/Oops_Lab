@@ -1,0 +1,18 @@
+1. define a class string that could work as user defined string type. Include constructors that will enable us, to create
+and uninitialize string and also to initialze an object with the string as argument at the time of creation. Also 
+include a function that adds two strings to make a third string. Note that the third string created should be equal to
+the sum of the two string len
+
+2. A book Shop maintains the inventory of books that are being sold at the shop. The list includes details such as author,
+price, publisher, and stock  position . Whenver a customer wants a book, the sales person inputs, the title and author
+and the system searches the list and displays whether it is available or not. If it is not, an appropiate message is displayed
+. If it is, then the system displays the book details and requests for the number of copies. If the requested copies are availble, 
+the total cost of the requested copies is displayed ; otherwise the message "The required copies not in stock is displayed. Design
+a system using a class called Books with suitable member function and constructors. Use new operator in constructors to allocate
+memory space required.
+
+6.13
+6.14
+6.15  
+from balaguruswamy  constructors
+(treat is as assignment)
